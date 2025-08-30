@@ -1,5 +1,5 @@
 # 🍕 Pizza Sales Performance & Customer Insights (SQL & Power BI)
--End-to-end analysis of pizza sales using SQL and Power BI to highlight business opportunities.Showcasing strong data cleaning, visualization, and communication skills for real-world impact
+End-to-end analysis of pizza sales using SQL and Power BI to highlight business opportunities.Showcasing strong data cleaning, visualization, and communication skills for real-world impact
 
 ## 📌 Table of Contents  
 - [Overview](#-overview)  
